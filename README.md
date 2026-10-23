@@ -8,3 +8,4 @@ This repository contains my assignments for Design and Analysis of Algorithms.
 - `week3` Merge Two Sorted Lists and Linked List Cycle
 - `week4` Remove Duplicates from Sorted List, Intersection of Two Linked Lists, Remove Linked List Elements, and Palindrome Linked List
 - `week5` Sort an Array and Sort List
+- [`week6`](week6) Ten binary tree problems: traversals, depth, paths, inversion, left leaves, and merging
