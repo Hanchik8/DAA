@@ -9,3 +9,4 @@ This repository contains my assignments for Design and Analysis of Algorithms.
 - `week4` Remove Duplicates from Sorted List, Intersection of Two Linked Lists, Remove Linked List Elements, and Palindrome Linked List
 - `week5` Sort an Array and Sort List
 - `week6` Ten binary tree problems: traversals, depth, paths, inversion, left leaves, and merging
+- `week8` Search in a Binary Search Tree, Range Sum of BST, and Convert Sorted Array to Binary Search Tree
